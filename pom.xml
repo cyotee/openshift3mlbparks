@@ -51,7 +51,7 @@
 		<host.docker.url>rhel-docker.vm</host.docker.url>
 		<port.docker>8181</port.docker>
 
-		<host.hosted-ose.url>rhel-docker.vm</host.hosted-ose.url>
+		<host.hosted-ose.url>stage.mlbparks.cloudapps-27ef.oslab.opentlc.com</host.hosted-ose.url>
 		<port.hosted-ose>80</port.hosted-ose>
 
 		<performancetest.webservice.host>localhost</performancetest.webservice.host>
