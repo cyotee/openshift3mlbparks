@@ -2,14 +2,14 @@
     "kind": "Template",
     "apiVersion": "v1",
     "metadata": {
-        "name": "mlbparks",
+        "name": "mlbparks-stage",
         "annotations": {
             "iconClass": "icon-jboss",
             "description": "Application template for MLB Parks application on EAP 6 & MongoDB built using STI"
         }
     },
     "labels": {
-        "template": "mlbparks"
+        "template": "mlbparks-stage"
     },
     "parameters": [
         {
